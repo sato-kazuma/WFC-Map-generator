@@ -1,3 +1,2 @@
-Codice incentrato sulla generazione di mappe procedurali 2D usando l'algoritmo Wave-Function-Collapse.
-Primo tentativo riuscito per esplorare l'ambito della programmazione per lo sviluppo di videogiochi.
-Codice usato: Java.
+Java Code focused on 2D procedural map generation using the Wave Function Collapse algorithm.
+First successful attempt at exploring programming in the field of video game development.
